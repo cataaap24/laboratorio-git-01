@@ -7,3 +7,8 @@ Me interesa el desarrollo de software y el control de versiones con Git.
 ## Interes 
 - Desarrollo web
 - Inteligencia Artificial
+
+## Objetivos acádemicos
+- Trabajar en proyectos reales de desarrollo colaborativo
+- Mejorar mis habilidades en programción, tanto en la lógica como en el uso de buenas prácticas
+  
