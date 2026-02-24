@@ -16,3 +16,8 @@ Me interesa el desarrollo de software y el control de versiones con Git.
 - Gastronomía
 - Música
 - Arte
+
+## Mascotas
+- Spike Wike
+- Milo Chocomilk
+- Michi Fu Gato Brown Miau
